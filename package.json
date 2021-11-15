@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BlackRob/vocabbuddybot/issues"
   },
-  "homepage": "https://github.com/BlackRob/vocabbuddybot#readme"
+  "homepage": "https://github.com/BlackRob/vocabbuddybot#readme",
+  "dependencies": {
+    "@types/cors": "^2.8.6"
+  }
 }
